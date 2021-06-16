@@ -52,6 +52,8 @@ Format
 
 ## [Soham Sen](https://github.com/NuclearCactus)
 
+## [Reekraj Roy](https://github.com/REEKRAJROY)
+
 ## [Sandip Kole](https://github.com/maihunsandip)
 
 ## [Rose Xiao](https://github.com/Rozie733)
